@@ -1,0 +1,5 @@
+/node_modules
+/dist
+
+# Screeps Config
+screeps.json
